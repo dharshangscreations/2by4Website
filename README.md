@@ -2,6 +2,8 @@
   # 2by4 Website
 
  2 am brainfuck of a development causing multipe brain failures for this smol designer brain
+
+ Also claude is my boo now
  
   ## Running the code
 
