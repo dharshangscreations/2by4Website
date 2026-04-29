@@ -108,11 +108,11 @@ export default function App() {
               Upload your plans. Get accurate material quantities quickly. We combine AI speed with human oversight to ensure 100% accuracy.
             </p>
 
-            <div className="flex gap-[16px] items-end">
-              <button className="flex items-center justify-center h-[47px] px-[25px] py-[9px] rounded-[5px] bg-gradient-to-r from-[#ff991e] to-[#fc6c05] font-['Overused_Grotesk:SemiBold',sans-serif] text-[18px] text-[#fffcf4] hover:scale-105 transition-transform">
+            <div className="flex gap-[16px] items-center">
+              <button className="flex items-center justify-center h-[48px] px-[24px] rounded-[5px] bg-gradient-to-r from-[#ff991e] to-[#fc6c05] font-['Overused_Grotesk:Medium',sans-serif] text-[18px] text-[#fffcf4] hover:scale-105 transition-transform">
                 Book a Demo
               </button>
-              <button className="flex items-center justify-center gap-[9px] border border-[#ff9e26] rounded-[5px] pb-[12px] pt-[10.5px] px-[18px] font-['Overused_Grotesk:Medium',sans-serif] text-[18px] text-[#806140] hover:bg-[#ff9e26] hover:text-white transition-all">
+              <button className="flex items-center justify-center gap-[9px] h-[48px] px-[24px] border border-[#ff9e26] rounded-[5px] font-['Overused_Grotesk:Medium',sans-serif] text-[18px] text-[#806140] hover:bg-[#ff9e26] hover:text-white transition-all">
                 <span>Get a Free Takeoff</span>
                 <svg className="w-[16.875px] h-[11.25px]" viewBox="0 0 19.2892 13.25" fill="none">
                   <path d={svgPaths.p33506e80} stroke="currentColor" strokeLinecap="round" strokeWidth="2" />
