@@ -24,11 +24,6 @@ export default function App() {
 
   return (
     <div className="bg-[#fffcf4] w-full flex justify-center">
-      <style>{`
-        html {
-          scroll-behavior: smooth;
-        }
-      `}</style>
 
       {/* Fixed Navbar */}
       <nav className="bg-[#fffcf4] border-b border-[#ff8400] fixed top-0 w-full h-[80px] z-50 flex justify-center">
