@@ -5,7 +5,7 @@
   import "./styles/index.css";
 
   createRoot(document.getElementById("root")!).render(
-    <ReactLenis root>
+    <ReactLenis root options={{ lerp: 0.2, wheelMultiplier: 1.2 }}>
       <App />
     </ReactLenis>
   );
