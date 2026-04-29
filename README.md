@@ -1,11 +1,10 @@
 
-  # Single-page website design
+  # 2by4 Website
 
-  This is a code bundle for Single-page website design. The original project is available at https://www.figma.com/design/5K2aWdlav2YciikLaTKwCE/Single-page-website-design.
-
+ 2 am brainfuck of a development causing multipe brain failures for this smol designer brain
+ 
   ## Running the code
 
   Run `npm i` to install the dependencies.
 
   Run `npm run dev` to start the development server.
-  
